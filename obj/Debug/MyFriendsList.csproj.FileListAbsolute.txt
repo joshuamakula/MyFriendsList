@@ -1,0 +1,11 @@
+C:\Users\ign\source\repos\MyFriendsList\bin\Debug\MyFriendsList.exe.config
+C:\Users\ign\source\repos\MyFriendsList\bin\Debug\MyFriendsList.exe
+C:\Users\ign\source\repos\MyFriendsList\bin\Debug\MyFriendsList.pdb
+C:\Users\ign\source\repos\MyFriendsList\obj\Debug\MyFriendsList.csproj.AssemblyReference.cache
+C:\Users\ign\source\repos\MyFriendsList\obj\Debug\MyFriendsList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ign\source\repos\MyFriendsList\obj\Debug\MyFriendsList.Form1.resources
+C:\Users\ign\source\repos\MyFriendsList\obj\Debug\MyFriendsList.Properties.Resources.resources
+C:\Users\ign\source\repos\MyFriendsList\obj\Debug\MyFriendsList.csproj.GenerateResource.cache
+C:\Users\ign\source\repos\MyFriendsList\obj\Debug\MyFriendsList.csproj.CoreCompileInputs.cache
+C:\Users\ign\source\repos\MyFriendsList\obj\Debug\MyFriendsList.exe
+C:\Users\ign\source\repos\MyFriendsList\obj\Debug\MyFriendsList.pdb
